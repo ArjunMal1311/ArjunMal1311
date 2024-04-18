@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunmal1311&label=Profile%20views&color=0e75b6&style=flat" alt="arjunmal1311" /> </p>
 
-- 🌱 I’m currently learning **NextJS, Tensorflow**
+- 🌱 **go get Golang**
 
 - 📫 How to reach me **hiarjun.malhotra2002@gmail.com**
 
