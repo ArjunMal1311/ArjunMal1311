@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arjun Malhotra</h1>
-<h3 align="center">A passionate frontend developer from India. Aspiring Web 3.0 Developer! Full-stack MERN, NextJS developer with a passion for building modern web applications. Stressed, blessed, and coffee obsessed!</h3>
-
+<h1 align="center">Arjun Malhotra</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunmal1311&label=Profile%20views&color=0e75b6&style=flat" alt="arjunmal1311" /> </p>
 
 - 🌱 **go get Golang**
