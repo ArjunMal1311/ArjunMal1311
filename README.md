@@ -102,7 +102,3 @@
         <img src="https://img.shields.io/badge/-@laughingscript-1DA1F2?style=flat&logo=Twitter&logoColor=white"/>
     </a>
 </div>
-
----
-
-<h2 align="center">💻 Check Out My Repos ⬇️ </h2>
