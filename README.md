@@ -1,21 +1,108 @@
-<h1 align="center">Arjun Malhotra</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunmal1311&label=Profile%20views&color=0e75b6&style=flat" alt="arjunmal1311" /> </p>
+# Hi, I'm Arjun Malhotra
 
-- 🌱 **go get Golang**
+<pre>
+                                  ___           ___           ___       ___       ___     
+                                 /\__\         /\  \         /\__\     /\__\     /\  \    
+                                /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+                               /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+                              /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+                             /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+                             \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+                                  \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+                                  /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+                                 /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+                                 \/__/         \/__/         \/__/     \/__/     \/__/    
+</pre>
 
-- 📫 How to reach me **hiarjun.malhotra2002@gmail.com**
+## About Me:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arjun-malhotra-51967523b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-malhotra-51967523b" height="30" width="40" /></a>
-<a href="https://instagram.com/dorkydudearjun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dorkydudearjun" height="30" width="40" /></a>
+- Building **[Portanite](https://portanite.in)**, a platform for discovering, customizing, and sharing portfolios, landing pages, dashboards, and more.
+- Passionate about web3, open-source projects, and design-focused solutions.
+- Built **[Collab Junction](https://collabjn.in)**, a platform connecting artists, speakers, and event organizers for collaborations.
+- Exploring **Account Abstraction** and **Web3 development** concepts.
+- Actively sharing insights on **X ([@laughingscript](https://x.com/laughingscript))** about **coding, deployment, and development experiences**.
+- Love working with **Svelte, Framer Motion, and modern web3 technologies**.
+- Check out my **[Personal Portfolio](https://arjunmalhotra.vercel.app)**.
+
+---
+
+## Skill Set:
+
+<table><tr><td valign="top" width="33%">
+
+### Frontend  
+<a href="https://github.com/arjunmal1311">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,svelte&perline=4" /> 
+</div>
+</a>
+
+</td><td valign="top" width="33%">
+
+### Languages
+<a href="https://github.com/arjunmal1311">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=js,cpp,java,python,solidity&perline=4" /> 
+</div>
+</a>
+
+</td><td valign="top" width="33%">
+
+### Others
+<a href="https://github.com/arjunmal1311">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,hardhat&perline=4" /> 
+</div>
+</a>
+
+</td></tr></table>
+
+---
+
+## GitHub Stats:
+
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/arjunmal1311">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=arjunmal1311&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
+  </a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+   <a href="https://github.com/arjunmal1311"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunmal1311&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+   </a>  
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunmal1311&show_icons=true&locale=en&layout=compact" alt="arjunmal1311" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunmal1311&show_icons=true&locale=en" alt="arjunmal1311" /></p>
+<div id="header" align="center">
+  
+  <p align="center"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=arjunmal1311" alt="arjunmal1311" />
+    </a> 
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=arjunmal1311&style=for-the-badge&color=orange" alt=""/>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunmal1311&" alt="arjunmal1311" /></p>
+---
+
+## Connect with Me:
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/arjun-malhotra-51967523b/" target="_blank">
+        <img src="https://img.shields.io/badge/-Arjun%20Malhotra-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+    </a>
+    <a target="_blank" href="mailto:hiarjun.malhotra2002@gmail.com">
+        <img src="https://img.shields.io/badge/-hiarjun.malhotra2002@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+    </a>
+    <a href="https://x.com/laughingscript" target="_blank">
+        <img src="https://img.shields.io/badge/-@laughingscript-1DA1F2?style=flat&logo=Twitter&logoColor=white"/>
+    </a>
+</div>
+
+---
+
+<h2 align="center">💻 Check Out My Repos ⬇️ </h2>
