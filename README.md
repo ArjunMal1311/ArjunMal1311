@@ -18,7 +18,7 @@
 
 - Building **[Portanite](https://portanite.in)**, a platform for discovering, customizing, and sharing portfolios, landing pages, dashboards, and more.
 - Passionate about web3, open-source projects, and design-focused solutions.
-- Built **[Collab Junction](https://collabjn.in)**, a platform connecting artists, speakers, and event organizers for collaborations.
+- Built **[Collab Junction](https://www.collabjn.in/)**, a platform connecting artists, speakers, and event organizers for collaborations.
 - Exploring **Account Abstraction** and **Web3 development** concepts.
 - Actively sharing insights on **X ([@laughingscript](https://x.com/laughingscript))** about **coding, deployment, and development experiences**.
 - Love working with **Svelte, Framer Motion, and modern web3 technologies**.
